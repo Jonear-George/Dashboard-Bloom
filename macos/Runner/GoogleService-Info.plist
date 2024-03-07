@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>57826761431-hngnl50hdrbiu5tfhvn81b2elpolilf1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.57826761431-hngnl50hdrbiu5tfhvn81b2elpolilf1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>57826761431-a7bl9pajg401h61el12vjb1299njdubc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuaXvmFcWMZFxt6pJQxYWoIwT3Lc_3BY4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>57826761431</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bloom.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>bloom-hotel-f4c79</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bloom-hotel-f4c79.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:57826761431:ios:0fc3e618b2e5371fbd2e92</string>
+	<key>DATABASE_URL</key>
+	<string>https://bloom-hotel-f4c79-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
